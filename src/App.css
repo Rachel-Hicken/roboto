@@ -32,6 +32,9 @@ animation-timing-function	Specifies the speed curve of the animation
   50% {
     border-radius: 50px;
   } */
+  50%{
+    background: blue;
+  }
   to { 
     transform: rotateY(180deg); 
     /* border-radius: 25px; */
